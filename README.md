@@ -87,5 +87,5 @@ docker-compose exec backend python manage.py import_tags
 ### Документация доступна после запуска проекта по адресу:
 http://127.0.0.1/api/docs/
 
-Разработка backend : [Давлетова Людмила](https://github.com/luydmila-davletova)
+Разработка : [Палкина Кристина](https://github.com/mrsdarcyy)
 
