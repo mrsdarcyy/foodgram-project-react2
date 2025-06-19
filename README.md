@@ -7,7 +7,7 @@
 Данные для входа под суперюзером:
 - login: user@ya.ru
 - password: user
-- 
+
  ### Технологии
  Python 3.8, DRF 3.12, JWT + Djoser
  
